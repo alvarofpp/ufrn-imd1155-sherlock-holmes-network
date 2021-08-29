@@ -1,5 +1,5 @@
 # Sherlock Holmes's Network
-[![Medium](https://img.shields.io/badge/-Medium-03a57a?style=for-the-badge&labelColor=000000&logo=Medium&logoColor=white)](#)
+[![Medium](https://img.shields.io/badge/-Medium-03a57a?style=for-the-badge&labelColor=000000&logo=Medium&logoColor=white)](https://medium.com/@mvinnicius22/construindo-e-analisando-uma-rede-a-partir-de-uma-p%C3%A1gina-da-wikip%C3%A9dia-5cae2d391346)
 
 This work has as purpose to analyze the Sherlock Holmes's network created from the Wikipedia page.
 
@@ -26,10 +26,10 @@ We use [Gephi](https://gephi.org/) to analyze the network and generate some repo
 - Graph Distance Report:
   - Diameter: 7
   - Radius: 0
-  - Average Path length: 3.129190067981233
+  - Average Path Length: 3.129190067981233
 - Modularity Report:
   - Modularity: 0.635
-  - Modularity with resolution: 0.635
+  - Modularity With Resolution: 0.635
   - Number of Communities: 19
 - Connected Components Report:
   - Number of Weakly Connected Components: 1
